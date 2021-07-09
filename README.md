@@ -2,7 +2,7 @@
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/ch2isk4kos?style=social)
 
-<p>Oh, Hello! My name is Chris. I'm a software engineer with full stack skilled in ecosystems surrounding JavaScript and Go. Interest in IoT development.</p>
+<p>Oh, Hello! My name is Chris. I'm a software engineer with full stack abilities skilled in ecosystems surrounding JavaScript and Go.<br>Interest in IoT development.</p>
 
 ---
 
