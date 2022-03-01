@@ -1,6 +1,6 @@
-# Chris Kakos
+# Chris Kakos ![Twitter Follow](https://img.shields.io/twitter/follow/ch2isk4kos?style=social)
 
-![Twitter Follow](https://img.shields.io/twitter/follow/ch2isk4kos?style=social)
+<!-- ![Twitter Follow](https://img.shields.io/twitter/follow/ch2isk4kos?style=social) -->
 
 <!-- JAVASCRIPT -->
 
