@@ -16,9 +16,11 @@
 
 </br> -->
 
-<!-- RUBY -->
+## Go
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="Gopher" width="50" height="50">
+
+<!-- RUBY -->
 
 <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" alt="Ruby" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain-wordmark.svg" alt="Rails" width="50" height="50">
 
