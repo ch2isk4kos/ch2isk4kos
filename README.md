@@ -1,6 +1,8 @@
 # Software Engineer
 
-![Twitter Follow](https://img.shields.io/twitter/follow/ch2isk4kos?style=social) <kbd>test</kbd>
+![Twitter Follow](https://img.shields.io/twitter/follow/ch2isk4kos?style=social)
+
+<kbd>.</kbd>
 
 <!-- ## JavaScript -->
 
