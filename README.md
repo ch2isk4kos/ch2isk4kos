@@ -34,5 +34,3 @@
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-plain.svg" alt="Heroku" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/digitalocean/digitalocean-plain.svg" alt="Digital Ocean Logo" width="50" height="50">
 
-<!-- --- -->
-
